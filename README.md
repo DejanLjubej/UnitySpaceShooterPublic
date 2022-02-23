@@ -1,4 +1,4 @@
 # UnitySpaceShooterPublic
 A space shooter small project
 
-This project was last editet in summer of 2021
+This project was last edited in summer of 2021
